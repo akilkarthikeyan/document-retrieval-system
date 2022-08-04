@@ -1,0 +1,7 @@
+.struct3{
+    margin-bottom: 1em;
+}
+body{
+    display: flex;
+    justify-content: center;
+}

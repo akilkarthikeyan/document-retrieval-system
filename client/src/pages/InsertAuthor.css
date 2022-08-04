@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.inA{
+    margin-bottom: 3em;
+}
+.sub{
+    margin-left: 3em;
+}
+.errMsg{
+    color : red;
+    text-align: center;
+}

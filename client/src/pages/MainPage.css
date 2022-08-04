@@ -1,0 +1,22 @@
+.heading{
+    text-align: center;
+    margin-top: .5em;
+    padding: .5em;
+}
+.fil{
+    display: flex;
+    justify-content: space-between;
+    padding: .5em;
+}
+.insertButton{
+    float : right;
+}
+.inM{
+    margin-right:.5em;
+}
+.scroll{
+
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
