@@ -3,7 +3,7 @@ A system to store and retrieve research papers that follow the IEEE format.
 
 Subdivided into the following pages:
 1) [Search](https://github.com/akilkarthikeyan/document-retrieval-system/blob/master/README.md#search)
-2) [Paper Details](https://github.com/akilkarthikeyan/document-retrieval-system/blob/master/README.md#insert)
+2) [Paper Details](https://github.com/akilkarthikeyan/document-retrieval-system/blob/master/README.md#paper-details)
 3) [Insert](https://github.com/akilkarthikeyan/document-retrieval-system/blob/master/README.md#insert)  
 
 ## Search  
