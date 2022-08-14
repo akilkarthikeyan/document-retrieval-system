@@ -8,4 +8,6 @@ Subdivided into the following pages:
 
 ## Search  
 Contains search filters that can be applied to refine search. Displays papers as "cards". Clicking on each card opens the [Paper Details]() page.
+
 ## Insert
+## Paper Details
