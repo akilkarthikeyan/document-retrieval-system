@@ -12,5 +12,9 @@ Contains search filters that can be applied to refine search. Displays papers as
 <img src="https://user-images.githubusercontent.com/76770419/184541600-a5a9ae7e-a329-4184-82ce-7d256e83bde4.png" width="600">
 
 ## Insert
-The search page has an insert button. Clicking on it opens the insert page. This has options to insert relevant data into the database.
+The search page has an insert button. Clicking on it opens the insert page. This has options to insert relevant data into the database present in the backend.
+
+
+<img src="https://user-images.githubusercontent.com/76770419/184541777-98f9093d-ba12-4680-98e3-42e98889ffd3.png" width="600">
+
 ## Paper Details
