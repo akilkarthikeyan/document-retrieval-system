@@ -1,6 +1,5 @@
 # Document Retrieval System
-A system to store and retrieve research papers that follow the IEEE format.  
-
+A system to store and retrieve research papers that follow the IEEE format.
 Subdivided into the following pages:
 1) [Search](https://github.com/akilkarthikeyan/document-retrieval-system/blob/master/README.md#search)
 2) [Paper Details](https://github.com/akilkarthikeyan/document-retrieval-system/blob/master/README.md#paper-details)
