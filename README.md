@@ -13,7 +13,7 @@ Contains search filters that can be applied to refine search. Displays papers as
 ## Paper Details
 Contains all relevant information about the required paper.
 
-<img src= "https://user-images.githubusercontent.com/76770419/184542004-c724c09e-e710-40c3-ae1b-4acad42628d9.png" width="600">
+<img src= "[https://user-images.githubusercontent.com/76770419/184542004-c724c09e-e710-40c3-ae1b-4acad42628d9.png](https://user-images.githubusercontent.com/76770419/186636187-3e05d524-8b70-40f9-adda-865d3a9889f9.png)" width="600">
 
 ## Insert
 The search page has an insert button. Clicking on it opens the insert page. This has options to insert relevant data into the database present in the backend.
