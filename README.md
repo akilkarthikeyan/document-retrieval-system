@@ -16,7 +16,7 @@ Contains all relevant information about the required paper.
 <img src= "https://user-images.githubusercontent.com/76770419/186636187-3e05d524-8b70-40f9-adda-865d3a9889f9.png" width="600">
 
 ## Insert
-The search page has an insert button. Clicking on it opens the insert page. This has options to insert relevant data into the database present in the backend.
+The search page has an insert button. Clicking on it opens the insert page. This has options to insert relevant data into the database present in the backend. 
 
 <img src="https://user-images.githubusercontent.com/76770419/184541777-98f9093d-ba12-4680-98e3-42e98889ffd3.png" width="600">
 
